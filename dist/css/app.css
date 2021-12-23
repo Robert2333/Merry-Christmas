@@ -398,7 +398,7 @@ input {
     height: 100%;
     background: url(../images/222.png) 0 0/900px auto no-repeat;
     z-index: 2222;
-    display: block;
+    display: block !important;
 }
 
 .img-glove {
